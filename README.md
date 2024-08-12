@@ -1,4 +1,4 @@
-# NodeJs, helloworld API for test propouses.
+# NodeJs, helloworld API for test propouses
 
 This is a simple API that returns a welcome message.
 
